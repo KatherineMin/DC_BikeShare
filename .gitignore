@@ -2,3 +2,4 @@
 .DS_Store
 /airflow/logs
 /venv
+/.idea
